@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/gkeown/.dotnet/store/|arch|/|tfm|",
+      "/Users/gkeown/.nuget/packages"
+    ]
+  }
+}
